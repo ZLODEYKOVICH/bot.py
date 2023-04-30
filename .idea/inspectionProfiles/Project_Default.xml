@@ -1,0 +1,146 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PyQt5.uic" />
+          <option value="main.Calculator.text" />
+          <option value="main.Calculator.btn1" />
+          <option value="main.Calculator.btn0" />
+          <option value="main.Calculator.table" />
+          <option value="main.Calculator.btn2" />
+          <option value="main.Calculator.btn3" />
+          <option value="main.Calculator.btn4" />
+          <option value="main.Calculator.btn5" />
+          <option value="main.Calculator.btn6" />
+          <option value="main.Calculator.btn7" />
+          <option value="main.Calculator.btn8" />
+          <option value="main.Calculator.btn9" />
+          <option value="main.Calculator.btn_dot" />
+          <option value="main.Calculator.btn_sqrt" />
+          <option value="main.Calculator.btn_fact" />
+          <option value="main.Calculator.btn_plus" />
+          <option value="main.Calculator.btn_minus" />
+          <option value="main.Calculator.btn_mult" />
+          <option value="main.Calculator.btn_div" />
+          <option value="main.Calculator.btn_pow" />
+          <option value="main.Calculator.btn_clear" />
+          <option value="main.Calculator.btn_eq" />
+          <option value="main.Flags.white" />
+          <option value="main.Flags.isChecked" />
+          <option value="main.Flags.text" />
+          <option value="main.Flags.blue" />
+          <option value="main.Flags.red" />
+          <option value="main.Flags.black" />
+          <option value="main.Flags.yellow" />
+          <option value="main.Flags.green" />
+          <option value="main.Flags.purple" />
+          <option value="main.Flags.crimson" />
+          <option value="main.Flags.pink" />
+          <option value="main.Flags.flag" />
+          <option value="main.Flags.btn_create" />
+          <option value="main.Planner.calendar" />
+          <option value="main.Planner.time_input" />
+          <option value="main.Planner.btn_add" />
+          <option value="main.Planner.events" />
+          <option value="main.Planner.event_input" />
+          <option value="main.Book.btn_add" />
+          <option value="main.Book.name_input" />
+          <option value="main.Book.phone_input" />
+          <option value="main.Book.book" />
+          <option value="PyQt5.QtWidgets.QWidget.setCircle" />
+          <option value="PyQt5.QtWidgets.QWidget.setLine" />
+          <option value="PyQt5.QtWidgets.QWidget.setBrush" />
+          <option value="main.Game.btn_start" />
+          <option value="main.Game.stone_count" />
+          <option value="main.Game.hip_size" />
+          <option value="main.Game.btn_take" />
+          <option value="main.take.text" />
+          <option value="main.Game.taken_size" />
+          <option value="main.Game.event_list" />
+          <option value="main.Game.winner" />
+          <option value="main.Game.btn_set_size" />
+          <option value="main.RandomLine.btn_get" />
+          <option value="main.RandomLine.random_line" />
+          <option value="main.MyTextEditor.btn_create" />
+          <option value="main.MyTextEditor.btn_save" />
+          <option value="main.MyTextEditor.btn_open" />
+          <option value="main.MyTextEditor.input_name" />
+          <option value="main.MyTextEditor.doc_text" />
+          <option value="SchoolProject.main.AboutWindow.portrait" />
+          <option value="SchoolProject.main.HelperMainWindow.about_action" />
+          <option value="SchoolProject.main.HelperMainWindow.subjects" />
+          <option value="SchoolProject.main.HelperMainWindow.text_action_help" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_add_subject" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_show_themes" />
+          <option value="SchoolProject.main.AddSubjectWindow.btn_result" />
+          <option value="SchoolProject.main.AddSubjectWindow.help_text" />
+          <option value="SchoolProject.main.AddSubjectWindow.input_subject" />
+          <option value="SchoolProject.main.HelperMainWindow.themes_list" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_get_themes" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_get_themes_txt" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_add_theme" />
+          <option value="SchoolProject.main.AddThemeWindow.btn_result" />
+          <option value="SchoolProject.main.AddThemeWindow.theme_name" />
+          <option value="SchoolProject.main.AddThemeWindow.theme_relevance_input" />
+          <option value="SchoolProject.main.AddThemeWindow.theme_name_input" />
+          <option value="SchoolProject.main.AddThemeWindow.theme_prevalence_input" />
+          <option value="SchoolProject.main.AddThemeWindow.about_theme_input" />
+          <option value="SchoolProject.main.AddThemeWindow.help_text" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_remove_subject" />
+          <option value="SchoolProject.main.HelperMainWindow.btn_remove_theme" />
+          <option value="SchoolProject.main.RemoveThemeWindow.btn_result" />
+          <option value="SchoolProject.main.RemoveThemeWindow.themes" />
+          <option value="SchoolProject.main.RemoveThemeWindow.help_text" />
+          <option value="SchoolProject.main.ThemeInformation.theme_name" />
+          <option value="SchoolProject.main.ThemeInformation.theme_relevance" />
+          <option value="SchoolProject.main.ThemeInformation.theme_prevalence" />
+          <option value="SchoolProject.main.ThemeInformation.about_theme" />
+          <option value="SchoolProject.main.EditLiteratureListWindow.btn_show_literature_list" />
+          <option value="SchoolProject.main.ThemeInformation.btn_edit_literature_list" />
+          <option value="SchoolProject.main.EditLiteratureListWindow.btn_add_book" />
+          <option value="SchoolProject.main.EditLiteratureListWindow.btn_remove_book" />
+          <option value="main.MainWindow.btn" />
+          <option value="main.TrickyButton.btn" />
+          <option value="main.BookInformationWindow.cover" />
+          <option value="main.BookInformationWindow.name" />
+          <option value="main.BookInformationWindow.author" />
+          <option value="main.BookInformationWindow.year" />
+          <option value="main.MainWindow.searh_type" />
+          <option value="main.MainWindow.btn_get_search" />
+          <option value="main.MainWindow.search_input" />
+          <option value="main.MainWindow.search_result" />
+          <option value="main.BookInformationWindow.genre" />
+          <option value="SchoolProject.main.EditWindow.btn_add_book" />
+          <option value="SchoolProject.main.EditWindow.add_book" />
+          <option value="main.MainWindow.btn_create_grath" />
+          <option value="main.MainWindow.function_input" />
+          <option value="main.MainWindow.graphicsView" />
+          <option value="main.Window.btn_draw_circle" />
+          <option value="main.Window.canvas" />
+          <option value="main.MainWindow.btn_create_circle" />
+          <option value="main.MainWindow.btn_draw_circle" />
+          <option value="main.MainWindow.canvas" />
+          <option value="main.MainWindow.setupUi" />
+          <option value="main.MainWindow.coffee_information" />
+          <option value="main.MainWindow.image" />
+          <option value="main.MainWindow.btn_R" />
+          <option value="main.MainWindow.btn_G" />
+          <option value="main.MainWindow.btn_B" />
+          <option value="main.MainWindow.move_clockwise" />
+          <option value="main.MainWindow.btn_counterclockwise" />
+          <option value="main.MainWindow.clockwise" />
+          <option value="main.MainWindow.btn_clockwise" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
